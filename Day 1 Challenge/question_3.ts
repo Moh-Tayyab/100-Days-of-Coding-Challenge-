@@ -1,5 +1,5 @@
 // Program written by [Muhammad Tayyab]
-// 02-03-2024
+// Date: 02-03-2024
 
 /*
 Question 3: Name Cases: Store a person’s name in a variable, and then print 

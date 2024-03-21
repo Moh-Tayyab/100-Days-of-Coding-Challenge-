@@ -1,5 +1,5 @@
 // Program Written by [Muhammad Tayyab]
-// 04-03-2024
+// Date: 04-03-2024
 
 /*
 Question 11: Names: Store the names of a few of your friends in an array called names. 

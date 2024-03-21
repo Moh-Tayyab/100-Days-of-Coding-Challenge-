@@ -1,5 +1,5 @@
 // Program written by [Muhammad Tayyab]
-// 03-03-2024
+// Date: 03-03-2024
 
 /*
 Question 4: Famous Quote: Find a quote from a famous person you admire. Print the quote and 

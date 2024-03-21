@@ -1,5 +1,5 @@
 // Program written by [Muhammad Tayyab]
-// 03-03-2024
+// Date: 03-03-2024
 
 /*
 Question 5: Famous Quote 2: Repeat Exercise 1, but this time store the famous person’s name in a variable 

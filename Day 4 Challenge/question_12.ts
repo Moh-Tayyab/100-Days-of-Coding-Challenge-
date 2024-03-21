@@ -1,5 +1,5 @@
-//Program Written by [Muhammad Tayyab]
-// 04-03-2024
+// Program Written by [Muhammad Tayyab]
+// Date: 04-03-2024
 
 /*
 Question 12: Greetings: Use the array from Exercise 11. Instead of just printing each person’s name, 
